@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main()
+// warning: type specifier missing, defaults to 'int'
+main()
 {
   printf("Hello World!");
 }
